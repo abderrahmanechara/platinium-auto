@@ -1,0 +1,18 @@
+# Configuration privée et secrets
+.env
+/config/local.php
+
+# Fichiers ajoutés par les utilisateurs
+/storage/uploads/*
+!/storage/uploads/.gitkeep
+
+# Journaux
+/storage/logs/*
+!/storage/logs/.gitkeep
+
+# Dépendances PHP, si Composer est utilisé plus tard
+/vendor/
+
+# Fichiers Windows
+Thumbs.db
+Desktop.ini
