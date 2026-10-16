@@ -6,3 +6,5 @@ VALUES
     ('SUV', 'Véhicule spacieux avec une position de conduite surélevée.'),
     ('Coupé', 'Voiture au style sportif.'),
     ('Cabriolet', 'Voiture avec un toit ouvrant ou escamotable.');
+
+    
